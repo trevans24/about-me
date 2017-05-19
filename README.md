@@ -17,7 +17,7 @@ Personal Goal(s): Network with everyone here so that when in future we need to f
 3. During college my friend and I brought CT from the Real World to throw a party
 
 # LinkedIn Profile
-[](www.linkedin.com/troy-evans24)
+[LinkedIn](www.linkedin.com/troy-evans24)
 
 # Type of Company I want to work for
 Just to get my foot in the door and really start to get comfortable in the industry I could go just about anywhere. There are some caveat to that however, I would not like to go into a big corporate job. Even though the pay is great I would not like to be a part of that structure at all. I really enjoy working with people whom I get along with which fits more into the small startup/mid level companies. I think a great way to start would be in an Agency setting where I could learn tricks of the trade and get up to speed just making websites and apps all the time.
@@ -26,5 +26,5 @@ Just to get my foot in the door and really start to get comfortable in the indus
 I really can embrace both sides of the developer role in more of a Full Stack kind of thing, but I like to work on my weaknesses more than divy to my strengths. Which means that doing more backend work would really help me out as the front end is where I really do well currently.
 
 # My portfolio website
-[](www.troyevans.co)
+[Personal Portfolio Website](www.troyevans.co)
 There you will also find a downloaded link to my resume just incase it is not opening here
